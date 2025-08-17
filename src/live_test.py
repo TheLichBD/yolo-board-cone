@@ -286,3 +286,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#python live_test.py --realsense --weights "..\data\runs\detect\train\weights\best.pt" --device 0 --record rs_out.mp4
+#python live_test.py --realsense --weights "..\data\runs\detect\train\weights\best.pt" --device 0
