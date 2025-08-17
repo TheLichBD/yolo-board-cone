@@ -1,0 +1,4 @@
+train: C:/Users/alike/PycharmProjects/model_two/data/images/train
+val:   C:/Users/alike/PycharmProjects/model_two/data/images/val
+nc: 2
+names: ['board','cone']

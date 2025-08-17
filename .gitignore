@@ -1,21 +1,11 @@
-# IDE
 .idea/
 .vscode/
 
-# Virtual env
 env/
 venv/
 
-# Python cache
 __pycache__/
 *.pyc
 
-# YOLO çıktı/dataset
 runs/
 data/
-
-# Ağır model dosyaları
-*.pt
-*.pth
-*.onnx
-*.engine
