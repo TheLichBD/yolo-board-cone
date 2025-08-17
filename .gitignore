@@ -1,19 +1,20 @@
 # IDE
 .idea/
+.vscode/
+
+# Virtual env
+env/
+venv/
 
 # Python cache
 __pycache__/
 *.pyc
 
-# Virtual environments
-env/
-venv/
-
-# YOLO outputs and datasets
+# YOLO çıktı/dataset
 runs/
 data/
 
-# Model weight files
+# Ağır model dosyaları
 *.pt
 *.pth
 *.onnx
