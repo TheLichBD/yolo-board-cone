@@ -1,0 +1,20 @@
+# IDE
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+
+# YOLO outputs and datasets
+runs/
+data/
+
+# Model weight files
+*.pt
+*.pth
+*.onnx
+*.engine
