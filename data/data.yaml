@@ -1,4 +1,5 @@
-train: C:/Users/alike/PycharmProjects/model_two/data/images/train
-val:   C:/Users/alike/PycharmProjects/model_two/data/images/val
+path: C:/Users/alike/PycharmProjects/model_two/data
+train: images/train
+val: images/val
 nc: 2
 names: ['board','cone']

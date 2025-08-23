@@ -1,11 +1,15 @@
-.idea/
-.vscode/
-
+# Virtual environments
 env/
 venv/
+.venv/
+v5env/
 
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-runs/
-data/
+# IDE
+.vscode/
+.idea/
